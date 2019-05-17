@@ -267,7 +267,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fffb36;
+    color: #fff;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/parking-lot.jpg');
     background-position: center center;
@@ -295,6 +295,7 @@ header .intro-text .intro-lead-in {
 header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
+    text-shadow: 2px 2px black;
     font-family: {{ site.data.template.font.primary }};
     font-size: 50px;
     font-weight: 700;
