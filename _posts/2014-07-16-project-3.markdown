@@ -1,6 +1,6 @@
 ---
 title: New Hope Baptist Church
-subtitle: Sealcoating and Striping
+subtitle:
 layout: default
 modal-id: 3
 date: 2018-09-09

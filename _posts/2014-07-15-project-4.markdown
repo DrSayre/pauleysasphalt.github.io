@@ -1,6 +1,6 @@
 ---
 title: Farmcredit Mid-America
-subtitle: Sealcoating and Striping
+subtitle:
 layout: default
 modal-id: 4
 date: 2018-09-09

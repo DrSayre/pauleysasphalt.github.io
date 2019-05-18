@@ -1,15 +1,15 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: McDonald's
+subtitle:
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: october-218.png
-thumbnail: october-218-thumbnail.png
+date: 2019-05-17
+img: mcdonalds_may_2019.png
+thumbnail: mcdonalds_may_2019-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: May 2019
+client: Start McDonald's
+category: Sealcoating and Striping
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---

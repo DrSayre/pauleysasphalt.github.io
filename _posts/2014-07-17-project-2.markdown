@@ -1,6 +1,6 @@
 ---
 title: Patch Job
-subtitle: Patch Job
+subtitle:
 layout: default
 modal-id: 2
 date: 2018-10-10

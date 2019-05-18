@@ -1,6 +1,6 @@
 ---
 title: Kentucky Administrative Office of the Courts
-subtitle: Sealcoating and Striping
+subtitle:
 layout: default
 modal-id: 5
 date: 2018-08-08
