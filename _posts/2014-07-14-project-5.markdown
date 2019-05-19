@@ -1,5 +1,5 @@
 ---
-title: Kentucky Administrative Office of the Courts
+title: Office of the Courts
 subtitle:
 layout: default
 modal-id: 5
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: August 2018
 client: Kentucky Administrative Office of the Courts
 category: Sealcoating, Striping
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description:
 
 ---

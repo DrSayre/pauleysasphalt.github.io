@@ -1,5 +1,5 @@
 ---
-title: New Hope Baptist Church
+title: New Hope Baptist
 subtitle:
 layout: default
 modal-id: 3
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: September 2018
 client: New Hope Baptist Church
 category: Sealcoating, Striping
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description:
 
 ---
